@@ -1,0 +1,9 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>net.nicoll.scratch.boot.config</groupId
+	<artifactId>spring-boot-config-loader</artifactId
+	<version>0.0.1-SNAPSHOT</version
+</dependency>
+```
